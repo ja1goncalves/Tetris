@@ -1,0 +1,40 @@
+
+MONITORIA 	 100 
+
+Teste123 	 120 
+
+Joao 	 200 
+
+Mauricio 	 60 
+
+Edu 	 170 
+
+pq 	 180 
+
+lucas 	 180 
+
+temer 	 210 
+
+ja1 	 3710 
+
+henrique 	 150 
+
+algumteste 	 690 
+
+ruim 	 60 
+
+diga 	 40 
+
+taokboy 	 50 
+
+oiiiiii 	 80 
+
+marcio 	 360 
+
+mais 	 220 
+
+Colzera 	 810 
+
+Joabe 	 70 
+
+marshall 	 230 

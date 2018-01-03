@@ -1,0 +1,492 @@
+# depslib dependency file v1.0
+1499708342 source:c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\funcoes peca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499708323 source:c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\funcoes tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499709437 source:c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\inicio e termino.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+
+1499708646 source:c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"mmsystem.h"
+
+1499709437 source:c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\main.c
+	<windows.h>
+	"Menu.h"
+	"Jogar.h"
+	"Inicio e Termino.h"
+	"Funcoes Tabuleiro.h"
+	"Funcoes Peca.h"
+
+1499709827 source:c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1499709437 c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\menu.h
+
+1499709437 c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\jogar.h
+
+1499709437 c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\inicio e termino.h
+
+1499709437 c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\funcoes tabuleiro.h
+
+1499709437 c:\users\aluno\desktop\projetos codeblocks\tetris 3.01\funcoes peca.h
+
+1499708342 source:c:\users\aluno\desktop\tetris 3.01\funcoes peca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499708323 source:c:\users\aluno\desktop\tetris 3.01\funcoes tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499711466 source:c:\users\aluno\desktop\tetris 3.01\inicio e termino.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+
+1499708646 source:c:\users\aluno\desktop\tetris 3.01\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"mmsystem.h"
+
+1499709437 source:c:\users\aluno\desktop\tetris 3.01\main.c
+	<windows.h>
+	"Menu.h"
+	"Jogar.h"
+	"Inicio e Termino.h"
+	"Funcoes Tabuleiro.h"
+	"Funcoes Peca.h"
+
+1499709437 c:\users\aluno\desktop\tetris 3.01\menu.h
+
+1499709437 c:\users\aluno\desktop\tetris 3.01\jogar.h
+
+1499709437 c:\users\aluno\desktop\tetris 3.01\inicio e termino.h
+
+1499709437 c:\users\aluno\desktop\tetris 3.01\funcoes tabuleiro.h
+
+1499709437 c:\users\aluno\desktop\tetris 3.01\funcoes peca.h
+
+1499711556 source:c:\users\aluno\desktop\tetris 3.01\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1499783379 source:c:\users\joaog\desktop\3.01 tetris\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"mmsystem.h"
+
+1499697430 source:c:\users\joaog\desktop\3.01 tetris\main.c
+	<windows.h>
+	"Menu.h"
+	"Jogar.h"
+	"Inicio e Termino.h"
+	"Funcoes Tabuleiro.h"
+	"Funcoes Peca.h"
+
+1499697430 c:\users\joaog\desktop\3.01 tetris\menu.h
+
+1499697430 c:\users\joaog\desktop\3.01 tetris\jogar.h
+
+1499697430 c:\users\joaog\desktop\3.01 tetris\inicio e termino.h
+
+1499697428 c:\users\joaog\desktop\3.01 tetris\funcoes tabuleiro.h
+
+1499697434 c:\users\joaog\desktop\3.01 tetris\funcoes peca.h
+
+1499783230 source:c:\users\joaog\desktop\3.01 tetris\funcoes peca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499725493 source:c:\users\joaog\desktop\3.01 tetris\funcoes tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499725493 source:c:\users\joaog\desktop\3.01 tetris\inicio e termino.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+
+1499725493 source:c:\users\joaog\desktop\3.01 tetris\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1499783230 source:c:\users\joaog\desktop\tetris 3.4\funcoes peca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499725493 source:c:\users\joaog\desktop\tetris 3.4\funcoes tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499725493 source:c:\users\joaog\desktop\tetris 3.4\inicio e termino.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+
+1499786613 source:c:\users\joaog\desktop\tetris 3.4\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"mmsystem.h"
+
+1499697430 source:c:\users\joaog\desktop\tetris 3.4\main.c
+	<windows.h>
+	"Menu.h"
+	"Jogar.h"
+	"Inicio e Termino.h"
+	"Funcoes Tabuleiro.h"
+	"Funcoes Peca.h"
+
+1499697430 c:\users\joaog\desktop\tetris 3.4\menu.h
+
+1499697430 c:\users\joaog\desktop\tetris 3.4\jogar.h
+
+1499697430 c:\users\joaog\desktop\tetris 3.4\inicio e termino.h
+
+1499697428 c:\users\joaog\desktop\tetris 3.4\funcoes tabuleiro.h
+
+1499697434 c:\users\joaog\desktop\tetris 3.4\funcoes peca.h
+
+1499783936 source:c:\users\joaog\desktop\tetris 3.4\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1499773850 source:c:\users\hugos\desktop\tetris 3.5\funcoes peca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499773844 source:c:\users\hugos\desktop\tetris 3.5\funcoes tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499773844 source:c:\users\hugos\desktop\tetris 3.5\inicio e termino.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+
+1499773844 source:c:\users\hugos\desktop\tetris 3.5\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"mmsystem.h"
+
+1499773844 source:c:\users\hugos\desktop\tetris 3.5\main.c
+	<windows.h>
+	"Menu.h"
+	"Jogar.h"
+	"Inicio e Termino.h"
+	"Funcoes Tabuleiro.h"
+	"Funcoes Peca.h"
+
+1499773846 c:\users\hugos\desktop\tetris 3.5\menu.h
+
+1499773844 c:\users\hugos\desktop\tetris 3.5\jogar.h
+
+1499773844 c:\users\hugos\desktop\tetris 3.5\inicio e termino.h
+
+1499773844 c:\users\hugos\desktop\tetris 3.5\funcoes tabuleiro.h
+
+1499773844 c:\users\hugos\desktop\tetris 3.5\funcoes peca.h
+
+1499803224 source:c:\users\hugos\desktop\tetris 3.5\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1499773850 source:c:\users\hugos\desktop\tetris 3.6\funcoes peca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499773844 source:c:\users\hugos\desktop\tetris 3.6\funcoes tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499773844 source:c:\users\hugos\desktop\tetris 3.6\inicio e termino.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+
+1499773844 source:c:\users\hugos\desktop\tetris 3.6\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"mmsystem.h"
+
+1499803708 source:c:\users\hugos\desktop\tetris 3.6\main.c
+	<windows.h>
+	"Menu.h"
+	"Jogar.h"
+	"Inicio e Termino.h"
+	"Funcoes Tabuleiro.h"
+	"Funcoes Peca.h"
+
+1499773846 c:\users\hugos\desktop\tetris 3.6\menu.h
+
+1499773844 c:\users\hugos\desktop\tetris 3.6\jogar.h
+
+1499773844 c:\users\hugos\desktop\tetris 3.6\inicio e termino.h
+
+1499773844 c:\users\hugos\desktop\tetris 3.6\funcoes tabuleiro.h
+
+1499773844 c:\users\hugos\desktop\tetris 3.6\funcoes peca.h
+
+1499803224 source:c:\users\hugos\desktop\tetris 3.6\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1499808795 source:c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\funcoes peca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499808795 source:c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\funcoes tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499808795 source:c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\inicio e termino.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+
+1499808370 source:c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"mmsystem.h"
+
+1499808795 source:c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\main.c
+	<windows.h>
+	"Menu.h"
+	"Jogar.h"
+	"Inicio e Termino.h"
+	"Funcoes Tabuleiro.h"
+	"Funcoes Peca.h"
+
+1499789506 c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\menu.h
+
+1499789506 c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\jogar.h
+
+1499789506 c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\inicio e termino.h
+
+1499789504 c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\funcoes tabuleiro.h
+
+1499789508 c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\funcoes peca.h
+
+1499808370 source:c:\users\usuario\downloads\tetris 3.6-20170711t205347z-001\tetris 3.6\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1499808795 source:c:\users\aluno\downloads\tetris 3.6\tetris 3.6\funcoes peca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499808795 source:c:\users\aluno\downloads\tetris 3.6\tetris 3.6\funcoes tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499808795 source:c:\users\aluno\downloads\tetris 3.6\tetris 3.6\inicio e termino.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+
+1499809661 source:c:\users\aluno\downloads\tetris 3.6\tetris 3.6\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"mmsystem.h"
+
+1499808795 source:c:\users\aluno\downloads\tetris 3.6\tetris 3.6\main.c
+	<windows.h>
+	"Menu.h"
+	"Jogar.h"
+	"Inicio e Termino.h"
+	"Funcoes Tabuleiro.h"
+	"Funcoes Peca.h"
+
+1499789506 c:\users\aluno\downloads\tetris 3.6\tetris 3.6\menu.h
+
+1499789506 c:\users\aluno\downloads\tetris 3.6\tetris 3.6\jogar.h
+
+1499789506 c:\users\aluno\downloads\tetris 3.6\tetris 3.6\inicio e termino.h
+
+1499789504 c:\users\aluno\downloads\tetris 3.6\tetris 3.6\funcoes tabuleiro.h
+
+1499789508 c:\users\aluno\downloads\tetris 3.6\tetris 3.6\funcoes peca.h
+
+1499808370 source:c:\users\aluno\downloads\tetris 3.6\tetris 3.6\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1499808796 source:d:\tetris finalmente porra\tetris 3.6\tetris 3.6\funcoes peca.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499808796 source:d:\tetris finalmente porra\tetris 3.6\tetris 3.6\funcoes tabuleiro.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+
+1499808796 source:d:\tetris finalmente porra\tetris 3.6\tetris 3.6\inicio e termino.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+
+1499868258 source:d:\tetris finalmente porra\tetris 3.6\tetris 3.6\jogar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	"mmsystem.h"
+
+1499808796 source:d:\tetris finalmente porra\tetris 3.6\tetris 3.6\main.c
+	<windows.h>
+	"Menu.h"
+	"Jogar.h"
+	"Inicio e Termino.h"
+	"Funcoes Tabuleiro.h"
+	"Funcoes Peca.h"
+
+1499789506 d:\tetris finalmente porra\tetris 3.6\tetris 3.6\menu.h
+
+1499789506 d:\tetris finalmente porra\tetris 3.6\tetris 3.6\jogar.h
+
+1499789506 d:\tetris finalmente porra\tetris 3.6\tetris 3.6\inicio e termino.h
+
+1499789504 d:\tetris finalmente porra\tetris 3.6\tetris 3.6\funcoes tabuleiro.h
+
+1499789508 d:\tetris finalmente porra\tetris 3.6\tetris 3.6\funcoes peca.h
+
+1499808372 source:d:\tetris finalmente porra\tetris 3.6\tetris 3.6\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
